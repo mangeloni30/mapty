@@ -1,0 +1,13 @@
+.section-wrapper {
+  display: flex;
+}
+
+.section-1 {
+  background: #333333;
+  width: 30%;
+}
+
+.section-2 {
+  background: #716c6c;
+  width: 70%;
+}
